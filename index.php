@@ -1,7 +1,3 @@
 <?php
 
-echo "\nHi\n\n";
-
-
-echo "doing some things";
-echo "asdfadsfa";
+echo "this is the thing";
